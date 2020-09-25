@@ -1,0 +1,3 @@
+C:\Users\kcetin\Desktop\websitesi\bin\Debug\netcoreapp3.1\websitesi.exe
+C:\Users\kcetin\Desktop\websitesi\bin\Debug\netcoreapp3.1\websitesi.dll
+C:\Users\kcetin\Desktop\websitesi\bin\Debug\netcoreapp3.1\websitesi.Views.dll
